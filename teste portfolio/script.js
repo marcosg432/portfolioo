@@ -89,7 +89,7 @@ function redirectToPortfolio() {
 }
 
 // Duração da animação
-const introDuration = 16800;  
+const introDuration = 4700;  
 
 setTimeout(redirectToPortfolio, introDuration);
 
